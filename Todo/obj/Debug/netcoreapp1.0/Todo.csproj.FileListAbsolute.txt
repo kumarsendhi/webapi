@@ -1,0 +1,9 @@
+C:\Kumar1\Todo\Todo\bin\Debug\netcoreapp1.0\Todo.deps.json
+C:\Kumar1\Todo\Todo\bin\Debug\netcoreapp1.0\Todo.runtimeconfig.json
+C:\Kumar1\Todo\Todo\bin\Debug\netcoreapp1.0\Todo.runtimeconfig.dev.json
+C:\Kumar1\Todo\Todo\bin\Debug\netcoreapp1.0\Todo.dll
+C:\Kumar1\Todo\Todo\obj\Debug\netcoreapp1.0\Todo.csprojResolveAssemblyReference.cache
+C:\Kumar1\Todo\Todo\obj\Debug\netcoreapp1.0\Todo.AssemblyInfo.cs
+C:\Kumar1\Todo\Todo\bin\Debug\netcoreapp1.0\Todo.pdb
+C:\Kumar1\Todo\Todo\obj\Debug\netcoreapp1.0\Todo.dll
+C:\Kumar1\Todo\Todo\obj\Debug\netcoreapp1.0\Todo.pdb
